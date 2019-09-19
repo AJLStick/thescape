@@ -7,3 +7,4 @@ var weapon = 1
 var air = 0
 var moneycheat = 0
 var axe = 0
+var stats = 0
